@@ -113,7 +113,7 @@ Don't forget to give the project a star! Thanks again!
 
 Antonio Tello Gómez - atelloengland@gmail.com
 
-Project Link: [https://github.com/destyo/accident_prediction-](https://github.com/destyo/accident_prediction-)
+Project Link: [https://github.com/destyo/accident_prediction-](https://github.com/destyo/accident_prediction)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
