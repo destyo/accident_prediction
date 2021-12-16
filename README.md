@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/AMM53/ProyectoML">
+  <a href="https://github.com/destyo/accident_prediction-">
     <img src="images/logo.png" alt="Logo" width="800" height="300">
   </a>
 
@@ -12,14 +12,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/AMM53/ProyectoML"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/destyo/accident_prediction-"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AMM53/ProyectoML">View Demo</a>
+    <a href="https://github.com/destyo/accident_prediction-">View Demo</a>
     ·
-    <a href="https://github.com/AMM53/ProyectoML/issues">Report Bug</a>
+    <a href="https://github.com/destyo/accident_prediction-">Report Bug</a>
     ·
-    <a href="https://github.com/AMM53/ProyectoML/issues">Request Feature</a>
+    <a href="https://github.com/destyo/accident_prediction-">Request Feature</a>
   </p>
 </div>
 
@@ -88,7 +88,7 @@ Objective was to develop a prediction analysis based on machine learning models 
 - [X] Interpretability
 - English translation
 
-See the [open issues](https://github.com/AMM53/ProyectoML/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/destyo/accident_prediction-/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -113,7 +113,7 @@ Don't forget to give the project a star! Thanks again!
 
 Antonio Tello Gómez - atelloengland@gmail.com
 
-Project Link: [https://github.com/AMM53/ProyectoML](https://github.com/AMM53/ProyectoML)
+Project Link: [https://github.com/destyo/accident_prediction-](https://github.com/destyo/accident_prediction-)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
