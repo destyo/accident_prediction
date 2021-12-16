@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][www.linkedin.com/in/antonio-tello-gómez]
+[![LinkedIn][linkedin-shield]][www.linkedin.com/in/antonio-tello-gomez]
 
 <!-- PROJECT LOGO -->
 <br />
