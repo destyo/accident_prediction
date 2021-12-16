@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][www.linkedin.com/in/antonio-tello-gomez]
+[![LinkedIn][linkedin-shield]][]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -140,6 +140,6 @@ Project Link: [https://github.com/destyo/accident_prediction-](https://github.co
 [license-shield]: https://img.shields.io/github/license/AMM53/ProyectoML.svg?style=for-the-badge
 [license-url]: https://github.com/AMM53/ProyectoML/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/antonio-tello-gómez-4b6327202
+[linkedin-url]: www.linkedin.com/in/antonio-tello-gomez
 [product-screenshot]: https://www.ctvnews.ca/polopoly_fs/1.4697281.1574439412!/httpImage/image.png_gen/derivatives/landscape_960/image.png
 
