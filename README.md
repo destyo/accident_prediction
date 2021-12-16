@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][]
+[![LinkedIn][linkedin-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
