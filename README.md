@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/AMM53/ProyectoML">
-    <img src="images/logo.png" alt="Logo" width="300" height="300">
+    <img src="images/logo.png" alt="Logo" width="800" height="300">
   </a>
 
 <h3 align="center">Canadian Crash Accidents Prediction</h3>
@@ -111,7 +111,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Andrés Mahia Morado - andresmahiamorado@gmail.com
+Antonio Tello Gómez - atelloengland@gmail.com
 
 Project Link: [https://github.com/AMM53/ProyectoML](https://github.com/AMM53/ProyectoML)
 
@@ -122,7 +122,7 @@ Project Link: [https://github.com/AMM53/ProyectoML](https://github.com/AMM53/Pro
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()Antonio Tello Gómez for working as hard on this project as I did
+* []()Andrés Mahía Morado for working as hard on this project as I did
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -140,6 +140,6 @@ Project Link: [https://github.com/AMM53/ProyectoML](https://github.com/AMM53/Pro
 [license-shield]: https://img.shields.io/github/license/AMM53/ProyectoML.svg?style=for-the-badge
 [license-url]: https://github.com/AMM53/ProyectoML/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/andresmahia
+[linkedin-url]: www.linkedin.com/in/antonio-tello-gómez-4b6327202
 [product-screenshot]: https://www.ctvnews.ca/polopoly_fs/1.4697281.1574439412!/httpImage/image.png_gen/derivatives/landscape_960/image.png
 
