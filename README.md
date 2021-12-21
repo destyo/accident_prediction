@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/destyo/accident_prediction-">
-    <img src="images/logo.png" alt="Logo" width="800" height="300">
+    <img src="images/logo.png" alt="Logo" width="500" height="300">
   </a>
 
 <h3 align="center">Canadian Crash Accidents Prediction</h3>
