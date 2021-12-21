@@ -56,7 +56,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Project for our Machine Learning class at CUNEF, Madrid.
-Objective was to develop a prediction analysis based on machine learning models for the Canada Crash Accidents dataset, for which you can find the Kaggle competition here: https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014
+The goal was to develop  an end-to-end machine learning project with the NCDB, for which you can find the Kaggle Dataset here: https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014
 ### Built With
 
 * []() Jupyter Notebook
