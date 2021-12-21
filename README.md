@@ -56,7 +56,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Project for our Machine Learning class at CUNEF, Madrid.
-The goal was to develop  an end-to-end machine learning project with the NCDB, for which you can find the Kaggle Dataset here: https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014
+The goal was to develop  an end-to-end machine learning project with the NCDB, you can find the Kaggle Dataset here: https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014
 ### Built With
 
 * []() Jupyter Notebook
@@ -86,7 +86,8 @@ The goal was to develop  an end-to-end machine learning project with the NCDB, f
     - [X] Model Optimization
     - [X] Pipeline for preprocessing
 - [X] Interpretability
-- English translation
+- [ ] English translation
+- [ ] Deploy model 
 
 See the [open issues](https://github.com/destyo/accident_prediction-/issues) for a full list of proposed features (and known issues).
 
