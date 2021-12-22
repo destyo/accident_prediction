@@ -55,7 +55,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Project for our Machine Learning class at CUNEF, Madrid.
+Project for our Machine Learning course at CUNEF, Madrid.
 The goal was to develop  an end-to-end machine learning project with the NCDB, you can find the Kaggle Dataset here: https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014
 ### Built With
 
@@ -114,7 +114,7 @@ Don't forget to give the project a star! Thanks again!
 
 Antonio Tello Gómez - atelloengland@gmail.com
 
-Project Link: [https://github.com/destyo/accident_prediction-](https://github.com/destyo/accident_prediction)
+Project Link: [https://github.com/destyo/accident_prediction](https://github.com/destyo/accident_prediction)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
