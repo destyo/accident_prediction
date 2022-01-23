@@ -1,1 +1,0 @@
-When you execute the code in notebooks, the generated models will be stored here. Don't delete this folder
